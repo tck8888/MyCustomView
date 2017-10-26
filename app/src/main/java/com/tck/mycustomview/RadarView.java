@@ -10,6 +10,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
+ * http://blog.csdn.net/crazy__chen/article/details/50163693
  * Created by Administrator on 2017/10/26 0026.
  */
 
@@ -90,7 +91,7 @@ public class RadarView extends View {
         float fontHeight = fontMetrics.descent - fontMetrics.ascent;
 
         for (int i = 0; i < count; i++) {
-            
+
         }
 
 
